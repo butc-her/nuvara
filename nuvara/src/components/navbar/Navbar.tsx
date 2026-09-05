@@ -145,4 +145,3 @@ export function Navbar() {
     </header>
   );
 }
-
